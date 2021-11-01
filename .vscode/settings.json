@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "/subscriptions/d8f8bcb9-3ad6-418c-bd3a-222bcd13e8a0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/imdp7",
+	"appService.deploySubpath": "."
+}

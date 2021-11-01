@@ -3,7 +3,7 @@ import host from '../assets/host.png'
 import card from '../assets/card.jpeg'
 function Web1() {
 	return (
-		<div class="md:container md:mx-auto pl-10 pr-10 px-4 mt-20 pb-10">
+		<div class="md:container md:mx-auto  px-4 mt-20 pb-10">
 		<p class="flex tracking-tighter text-3xl w-auto sm:w-auto text-center text-white font-semibold p-2 bg-blue-400 justify-center shadow-2xl font-mono">
 		1989–2004: Rise of the global Internet, Web 1.0
 		</p>

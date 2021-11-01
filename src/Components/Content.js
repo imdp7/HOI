@@ -7,13 +7,13 @@ function Content() {
     <div class="text-start w-3/2 py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">
         <h2 class="text-3xl font-extrabold text-black dark:text-white sm:text-4xl">
             <span>
-                Listen is Everything
+                History is Everything
             </span>
             <span class="block text-indigo-500">
                 It&#x27;s today or never.
             </span>
         </h2>
-        <p class="text-xl mt-4 text-gray-400 flex-wrap">
+        <p class="text-xl mt-4 text-black flex-wrap">
             I had noticed that both in the very poor and very rich extremes of society the mad were often allowed to mingle freely
         </p>
         <div class="lg:mt-0 lg:flex-shrink-0">

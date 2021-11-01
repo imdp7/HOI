@@ -117,7 +117,12 @@ function Footer() {
             </a>
         </div>
         <div class="text-center pt-10 sm:pt-12 font-light flex items-center justify-center">
+        <span>
             Created by Darshan
+        </span>
+        </div>
+        <div class="text-center sm:pt-5 font-light flex items-center justify-center">
+        <a href='https://validator.w3.org/#validate_by_uri'>Validate The Page</a>
         </div>
     </div>
 </footer>

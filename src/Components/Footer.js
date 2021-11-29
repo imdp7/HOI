@@ -2,94 +2,9 @@ import React from 'react'
 
 function Footer() {
 	return (
-		
+	
 <footer class="bg-black pt-4 pb-8 xl:pt-8">
     <div class="max-w-screen-lg xl:max-w-screen-xl mx-auto px-4 sm:px-6 md:px-8 text-gray-400 dark:text-gray-300">
-        <ul class="text-lg font-light pb-8 flex flex-wrap justify-center">
-            <li class="w-1/2 md:w-1/3 lg:w-1/3">
-                <div class="text-center">
-                    <h2 class="text-white dark:text-gray-200 text-md uppercase mb-4">
-                        Company
-                    </h2>
-                    <ul>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                About
-                            </a>
-                        </li>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Jobs
-                            </a>
-                        </li>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                For the Record
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </div>
-            </li>
-            <li class="w-1/2 md:w-1/3 lg:w-1/3">
-                <div class="text-center">
-                    <h2 class="text-white dark:text-gray-200 text-md uppercase mb-4">
-                        Communities
-                    </h2>
-                    <ul>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                For Artist
-                            </a>
-                        </li>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Developers
-                            </a>
-                        </li>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Advertisers
-                            </a>
-                        </li>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Investors
-                            </a>
-                        </li>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Vendors
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </li>
-            <li class="w-1/2 md:w-1/3 lg:w-1/3">
-                <div class="text-center">
-                    <h2 class="text-white dark:text-gray-200 text-md uppercase mb-4">
-                        Useful Links
-                    </h2>
-                    <ul>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Support
-                            </a>
-                        </li>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Web Player
-                            </a>
-                        </li>
-                        <li class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Free Mobile App
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </li>
-        </ul>
         <div class="pt-8 flex border-t border-gray-200 max-w-xs mx-auto items-center justify-between">
             <a href="https://facebook.com/imdp7">
                 <svg width="20" height="20" fill="currentColor" class="text-xl hover:text-gray-800 dark:hover:text-white transition-colors duration-200" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">

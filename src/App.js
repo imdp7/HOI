@@ -28,19 +28,19 @@ const routes = [
     exact: true,
   },
   {
-    path: "/history",
+    path: "/pylint",
     component: History,
   },
   {
-    path: "/networks",
+    path: "/aaa-testing",
     component: Networks,
   },
   {
-    path: "/web1",
+    path: "/oop",
     component: Web1,
   },
   {
-    path: "/web2",
+    path: "/design-patterns",
     component: Web2,
   },
   {

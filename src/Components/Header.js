@@ -14,7 +14,7 @@ function Header() {
           className="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-white"
           href="/"
         >
-      History of Internet
+        Patel's Blog
         </a>
         <button
           className="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-white rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -43,33 +43,33 @@ function Header() {
           <li className="nav-item">
             <a
               className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-              href="history"
+              href="pylint"
             >
-              <i className="fab fa-facebook-square text-lg leading-lg text-white opacity-75"></i><span className="ml-2">History</span>
+              <i className="fab fa-facebook-square text-lg leading-lg text-white opacity-75"></i><span className="ml-2">Pylint</span>
             </a>
           </li>
           <li className="nav-item">
             <a
               className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-              href="networks"
+              href="aaa-testing"
             >
-              <i className="fab fa-twitter text-lg leading-lg text-white opacity-75"></i><span className="ml-2">Networks</span>
+              <i className="fab fa-twitter text-lg leading-lg text-white opacity-75"></i><span className="ml-2">AAA Testing</span>
             </a>
           </li>
           <li className="nav-item">
             <a
               className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-              href="web1"
+              href="oop"
             >
-              <i className="fab fa-pinterest text-lg leading-lg text-white opacity-75"></i><span className="ml-2">Web 1.0</span>
+              <i className="fab fa-pinterest text-lg leading-lg text-white opacity-75"></i><span className="ml-2">OOP's</span>
             </a>
           </li>
           <li className="nav-item">
             <a
               className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-              href="web2"
+              href="design-patterns"
             >
-              <i className="fab fa-pinterest text-lg leading-lg text-white opacity-75"></i><span className="ml-2">Web 2.0</span>
+              <i className="fab fa-pinterest text-lg leading-lg text-white opacity-75"></i><span className="ml-2">Design Patterns</span>
             </a>
           </li>
         </ul>
